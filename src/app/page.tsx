@@ -299,10 +299,7 @@ export default function Home() {
                     <label className="block text-sm font-medium text-gray-700 mb-2">
                       Message
                     </label>
-                    <textarea
-                      rows="4"
-                      className="w-full !rounded-button border border-black  focus:outline-none p-2shadow-sm focus:ring-custom focus:border-custom"
-                    ></textarea>
+                    <textarea className="w-full !rounded-button border border-black  focus:outline-none p-2shadow-sm focus:ring-custom focus:border-custom"></textarea>
                   </div>
                   <button
                     type="submit"
